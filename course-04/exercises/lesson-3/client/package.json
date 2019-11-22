@@ -18,7 +18,11 @@
     "typescript": "3.4.3"
   },
   "devDependencies": {
-    "@types/styled-components": "^4.1.14"
+    "@types/styled-components": "^4.1.14",
+    "aws-sdk": "^2.577.0",
+    "serverless-aws-documentation": "^1.1.0",
+    "serverless-reqvalidator-plugin": "^1.0.3",
+    "serverless-webpack": "^5.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
